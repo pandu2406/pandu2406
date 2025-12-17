@@ -34,7 +34,11 @@ When I’m not at my desk, you’ll find me traveling, discovering new destinati
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandu2406&show_icons=true&rank_icon=github&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandu2406&show_icons=true&rank_icon=github&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandu2406&layout=compact)
+
+![trophy](https://github-profile-trophy.vercel.app/?username=pandu2406)
 
 
 <!--
