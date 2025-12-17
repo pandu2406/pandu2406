@@ -1,6 +1,6 @@
 # Hi there, I'm Pandu 👋
 
-🚀 **IT Support Specialist** | 🛡️ Cyber Security & Software Testing Enthusiast
+🚀 **IT Support Specialist** | 🛡️ Cyber Security & Software Testing Enthusiast <br>
 💻 **Web & Mobile App Developer" 
 ---
 
