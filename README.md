@@ -38,8 +38,11 @@ When I’m not at my desk, you’ll find me traveling, discovering new destinati
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pandu2406&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=pandu2406)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pandu2406&theme=tokyo-night)
 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/pandu2406)
+
+![Visitors](https://komarev.com/ghpvc/?username=pandu2406&color=blue)
 
 <!--
 **pandu2406/pandu2406** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
