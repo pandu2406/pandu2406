@@ -34,6 +34,9 @@ When I’m not at my desk, you’ll find me traveling, discovering new destinati
 
 ---
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pandu2406&show_icons=true&rank_icon=github&theme=dark)
+
+
 <!--
 **pandu2406/pandu2406** is a ✨ special ✨ repository because its README.md (this file) appears on your GitHub profile.
 -->
