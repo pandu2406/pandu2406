@@ -358,7 +358,7 @@ I'm always interested in collaborating on exciting projects, especially those in
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pandu2406)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mpandudinata@gmail.com)
 
-### 💬 Open to Opportunities
+### 💬 Open to Opportunities and Collaboration
 
 </div>
 
